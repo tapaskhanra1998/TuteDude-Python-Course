@@ -15,4 +15,4 @@ The scripts take two numbers as input from the user, perform the operations, and
 1. **Clone the Repository**  
    Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/tapaskhanra1998/Assignment_1.git
+   git clone https://github.com/tapaskhanra1998/TuteDude-Python-Course.git
