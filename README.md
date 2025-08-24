@@ -1,6 +1,6 @@
 # TuteDude-Python-Course
 
-# Basic Mathematical Operations in Python
+# Assignment 1: Basic Mathematical Operations in Python
 
 ## Purpose
 This project contains Python programs to perform basic mathematical operations such as:
