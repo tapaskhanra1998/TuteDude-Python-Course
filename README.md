@@ -1,4 +1,4 @@
 # Assignment 1
 
-- [Task 1](Task1/README.md)
-- [Task 2](Task2/README.md)
+- [Task 1](Assignment_1/task1/README.md)
+- [Task 2](Assignment_1/task2/README.md)
