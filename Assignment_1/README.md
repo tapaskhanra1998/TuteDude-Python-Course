@@ -9,6 +9,18 @@ This project contains Python programs to perform basic mathematical operations s
 - Multiplication
 - Division
 
+---
+
+## Assignment 2: Personalized Greeting Program in Python
+
+### Purpose
+This assignment contains a Python program that:
+- Accepts the user’s first name and last name as input
+- Combines them into a full name
+- Displays a personalized greeting message to the user
+
+---
+
 The scripts take two numbers as input from the user, perform the operations, and display the results on the screen.  
 
 ## Instructions to Run the Program
