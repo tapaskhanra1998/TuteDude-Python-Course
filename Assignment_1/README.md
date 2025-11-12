@@ -14,4 +14,5 @@ The scripts take two numbers as input from the user, perform the operations, and
 ## Instructions to Run the Program
 1. **Clone the Repository**  
    Open your terminal or command prompt and run:
-   ```bash git clone https://github.com/tapaskhanra1998/TuteDude-Python-Course.git
+   ```bash
+   git clone https://github.com/tapaskhanra1998/TuteDude-Python-Course.git
